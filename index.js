@@ -1,3 +1,6 @@
+
+// Code practice
+
 function addingEventListener() {const input = document.getElementById('input');
 
 function clickAlert() {
